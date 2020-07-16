@@ -17,11 +17,4 @@ Here are some ideas to get you started:
 
 Hey, guys!
 
-I am a front-end developer in China. I am love code sososososo much.
-
-My job list.
-
-- Meituan 201803 - 201901
-- free in home 201901 - 201910
-- work with consumer grow 201910 - now
-
+I am a front-end developer in China. I am love coding sososososo much.
