@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+ thanks sindresorhus trick
+ https://github.com/sindresorhus/sindresorhus
+-->
 <div align="center">
 	<a href="https://github.com/zwkang">
 		<img src="https://github.com/zwkang/zwkang/raw/master/info.svg?sanitize=true">
