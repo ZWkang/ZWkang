@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 	<a href="https://github.com/zwkang">
-		<img src="./info.svg?sanitize=true">
+		<img src="https://github.com/zwkang/zwkang/raw/master/info.svg?sanitize=true">
 	</a>
 </div>
