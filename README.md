@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hey, guys!
-
-I am a front-end developer in China. I am love coding sososososo much.
+<div align="center">
+	<a href="https://github.com/zwkang">
+		<img src="./info.svg?sanitize=true">
+	</a>
+</div>
