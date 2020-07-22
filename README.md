@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-	<img src="https://github.com/zwkang/zwkang/raw/master/info.svg?sanitize=true">
+	<a href="https://github.com/zwkang">
+		<img src="https://github.com/zwkang/zwkang/raw/master/info.svg?sanitize=true">
+	</a>
 </div>
