@@ -1,25 +1,34 @@
-### Hi there 👋
+### ZWkang 👋
 
-<!--
-**ZWkang/ZWkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/zwkang/count.svg" />
+</p>
 
-Here are some ideas to get you started:
+> Software Developer at China 🇨🇳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
- thanks sindresorhus trick
- https://github.com/sindresorhus/sindresorhus
--->
-<div align="center">
-	<a href="https://github.com/zwkang">
-		<img src="https://github.com/zwkang/zwkang/raw/master/info.svg?sanitize=true">
-	</a>
-</div>
+### Technologies
+
+Just know a little bit about front-end stuff.
+
+### More detail 
+
+still working hard to figure how to deep in front-end. wanna to be a expert.
+
+respect !!
+
+on the way.
+
+Slogan: Love code very much. 
+
+Hope be friend with You.
+
+### Contact Me
+
+> ask me anything you wanna know.
+
+[Personal Blog](http://zwkang.com/) | [Github](https://github.com/ZWkang) | [segmentfault](https://segmentfault.com/u/zwkang) | [Email](kang95630#gmail.com)
+
+### Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=zwkang&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
