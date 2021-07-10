@@ -13,7 +13,7 @@ Just know a little bit about front-end stuff.
 
 ### More detail 
 
-still working hard to figure how to deep in front-end. wanna to be a expert.
+still working hard to figure how to deep in front-end. wanna to be an expert.
 
 respect !!
 
