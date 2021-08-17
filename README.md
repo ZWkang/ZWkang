@@ -19,8 +19,6 @@ respect !!
 
 on the way.
 
-Slogan: Love code very much. 
-
 Hope be friend with You.
 
 ### Contact Me
