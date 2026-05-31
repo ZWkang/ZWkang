@@ -1,28 +1,23 @@
 ### ZWkang 👋
 
-<p> 
-  Visitor count<br>
-  <img src="https://komarev.com/ghpvc/?username=zwkang&label=Visitor%20count&color=0e75b6&style=flat" alt="Visitor count" />
-</p>
-
-> Software Developer at China 🇨🇳
+> Software Developer in China 🇨🇳
 
 ### Technologies
 
-Just know a little bit about front-end stuff.
+I know a little bit about front-end development.
 
-### More detail 
+### More Details
 
-still working hard to figure how to deep in front-end. wanna to be an expert.
+Still working hard to go deeper into front-end development. I want to become an expert.
 
-respect !!
+Respect!
 
-on the way.
+On the way.
 
-Hope be friend with You.
+Hope to be friends with you.
 
 ### Contact Me
 
-> ask me anything you wanna know.
+> Ask me anything you want to know.
 
-[Personal Blog](https://zwkang.blog) | [Github](https://github.com/ZWkang) | [segmentfault](https://segmentfault.com/u/zwkang) | [Email](kang95630#gmail.com)
+[Personal Blog](https://zwkang.blog) | [GitHub](https://github.com/ZWkang) | [SegmentFault](https://segmentfault.com/u/zwkang) | [Email](kang95630#gmail.com)
