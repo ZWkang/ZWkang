@@ -2,7 +2,7 @@
 
 <p> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/zwkang/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=zwkang&label=Visitor%20count&color=0e75b6&style=flat" alt="Visitor count" />
 </p>
 
 > Software Developer at China 🇨🇳
