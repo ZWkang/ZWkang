@@ -25,8 +25,4 @@ Hope be friend with You.
 
 > ask me anything you wanna know.
 
-[Personal Blog](http://zwkang.com/) | [Github](https://github.com/ZWkang) | [segmentfault](https://segmentfault.com/u/zwkang) | [Email](kang95630#gmail.com)
-
-### Github Stats
-
-![](https://github-readme-stats.vercel.app/api?username=zwkang&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
+[Personal Blog](https://zwkang.blog) | [Github](https://github.com/ZWkang) | [segmentfault](https://segmentfault.com/u/zwkang) | [Email](kang95630#gmail.com)
